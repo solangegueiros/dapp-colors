@@ -1018,8 +1018,8 @@
     "version": "0.5.7+commit.6da8b019.Emscripten.clang"
   },
   "networks": {},
-  "schemaVersion": "3.3.3",
-  "updatedAt": "2021-01-28T18:51:35.884Z",
+  "schemaVersion": "3.3.4",
+  "updatedAt": "2021-03-30T00:37:29.475Z",
   "devdoc": {
     "details": "This implementation includes all the required and some optional functionality of the ERC721 standard Moreover, it includes approve all functionality using operator terminology. * See https://eips.ethereum.org/EIPS/eip-721",
     "methods": {

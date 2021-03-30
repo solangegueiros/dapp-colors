@@ -14,6 +14,6 @@
   "license": "ISC",
   "dependencies": {
     "@openzeppelin/contracts": "2.5.1",
-    "@truffle/hdwallet-provider": "1.0.35"
+    "@truffle/hdwallet-provider": "1.2.2"
   }
 }
